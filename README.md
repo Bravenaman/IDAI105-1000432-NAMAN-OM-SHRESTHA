@@ -50,46 +50,13 @@ The primary goal of this project is to optimize cash replenishment strategies fo
 
 ---
 
-## 📸 UI Screenshots & Dashboard Views
+## 📸 UI Screenshots
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="docs/screenshot1.png" width="250"/><br>
-      <b>1. Main Dashboard </b>
-    </td>
-    <td align="center">
-      <img src="docs/screenshot2.png" width="250"/><br>
-      <b>2. Global Filter Location Type (EDA)</b>
-    </td>
-    <td align="center">
-      <img src="docs/screenshot3.png" width="250"/><br>
-      <b>3. Global Filter Weather Condition </b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="docs/screenshot4.png" width="250"/><br>
-      <b>4. Exploring Data Analytics</b>
-    </td>
-    <td align="center">
-      <img src="docs/screenshot5.png" width="250"/><br>
-      <b>5. Impact Of Holidays On Average Withdrawals</b>
-    </td>
-    <td align="center">
-      <img src="docs/screenshot6.png" width="250"/><br>
-      <b>6. AI Powered ATM Clustering</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="docs/screenshot7.png" width="250"/><br>
-      <b>7. Anomaly & Spike Detection</b>
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+| Part 1 | Part 2 | Part 3 |
+| :---: | :---: | :---: |
+| <img src="SCREEN%20SHOT/%231.png" width="250"/><br>**1. Project Scope & Overview** | <img src="SCREEN%20SHOT/%232.png" width="250"/><br>**2. Exploratory Data Analysis** | <img src="SCREEN%20SHOT/%233.png" width="250"/><br>**3. Clustering / Segmentation** |
+| <img src="SCREEN%20SHOT/%234.png" width="250"/><br>**4. Association Rules** | <img src="SCREEN%20SHOT/%235.png" width="250"/><br>**5. Anomaly Detection** | <img src="SCREEN%20SHOT/%236.png" width="250"/><br>**6. Data Visualizations** |
+| <img src="SCREEN%20SHOT/%237.png" width="250"/><br>**7. Interactive Dashboard** | | |
 
 ---
 
